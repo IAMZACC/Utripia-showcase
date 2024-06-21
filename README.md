@@ -16,6 +16,9 @@ Utripia.ai is an AI-powered travel recommendation website designed to help users
 - **AI Integration:** GPT, Gemma, Llama, Gemini, Langchain
 - **Automated Travel Route Planning:** Automatically plans travel routes to avoid time conflicts and prioritize saving travel distance, while also allowing users to modify the routes.
 
-## Screenshots
+## Screenshots and Instructions
 ![Homepage](imgs/homepage1.png)
 *Screenshot of the homepage.*
+1. **Enter Destination:** Start by entering at least the first three letters of your desired destination.
+2. **Select Dates:** Choose the dates for your trip.
+3. **Specify Preferences:** Optionally, specify particular types of attractions or the kind of experience you are looking for.

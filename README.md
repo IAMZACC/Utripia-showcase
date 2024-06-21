@@ -61,6 +61,10 @@ Utripia.ai is an AI-powered travel recommendation website designed to help users
 *Screenshot of the restaurant and accommodation selection feature.*
 
 
+### Save and Share
+
+1. **Save Your Itinerary:** Once your trip is planned, you can save the itinerary for future reference.
+2. **Print and Share:** You can also print your itinerary or share it with others.
 
 
 

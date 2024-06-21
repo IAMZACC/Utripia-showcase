@@ -16,6 +16,6 @@ Utripia.ai is an AI-powered travel recommendation website designed to help users
 - **AI Integration:** GPT-3, NLP, Langchain
 - **Deployment:** AWS, Nginx, GitHub Actions
 
-```markdown
+## Screenshots
 ![Homepage](images/homepage1.png)
 *Screenshot of the homepage.*

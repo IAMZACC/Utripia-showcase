@@ -2,7 +2,7 @@
 
 This is a page to introduce Utripia.ai, an AI-powered travel recommendation website.
 
-🌍✈️🧳🗺️🚗🏨🏖️📍
+#🌍✈️🧳🗺️🚗🏨🏖️📍
 
 # https://www.u-tripia.com/
 ## Project Overview

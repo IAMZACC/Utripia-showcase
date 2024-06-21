@@ -13,8 +13,8 @@ Utripia.ai is an AI-powered travel recommendation website designed to help users
 ## Technology Stack
 - **Backend:** Python, Flask, MongoDB
 - **Frontend:** JavaScript, HTML, CSS
-- **AI Integration:** GPT-3, NLP, Langchain
-- **Deployment:** AWS, Nginx, GitHub Actions
+- **AI Integration:** GPT, Gemma, Llama, Gemini, Langchain
+- **Automated Travel Route Planning:** Automatically plans travel routes to avoid time conflicts and prioritize saving travel distance, while also allowing users to modify the routes.
 
 ## Screenshots
 ![Homepage](imgs/homepage1.png)

@@ -84,4 +84,4 @@ A: The information provided by the model is for reference only.
 
 
 ## Contact
-For any questions or suggestions, please contact Zac at [Zhajingy@gmail.com].
+For any questions or suggestions, please contact [Zhajingy@gmail.com].

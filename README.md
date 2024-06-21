@@ -16,7 +16,3 @@ Utripia.ai is an AI-powered travel recommendation website designed to help users
 - **AI Integration:** GPT-3, NLP, Langchain
 - **Deployment:** AWS, Nginx, GitHub Actions
 
-## Installation and Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Utripia-showcase.git

@@ -53,6 +53,14 @@ Utripia.ai is an AI-powered travel recommendation website designed to help users
 ![Route Planning](imgs/route_planning.png)
 *Screenshot of the automated travel route planning feature.*
 
+### Choose Restaurants and Accommodations
+
+**Select Nearby Options:** After finalizing your itinerary, you can choose restaurants or accommodations near your selected attractions to complete your travel plans.
+   
+![Restaurants and Accommodations](imgs/restaurants_accommodations.png)
+*Screenshot of the restaurant and accommodation selection feature.*
+
+
 
 
 

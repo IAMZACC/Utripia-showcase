@@ -1,7 +1,9 @@
 # Utripia-showcase
 
 This is a page to introduce Utripia.ai, an AI-powered travel recommendation website.
+
 🌍✈️🧳🗺️🚗🏨🏖️📍
+
 # https://www.u-tripia.com/
 ## Project Overview
 Utripia.ai is an AI-powered travel recommendation website designed to help users easily plan and explore travel destinations. The website leverages advanced AI technologies to provide personalized travel recommendations and real-time communication.

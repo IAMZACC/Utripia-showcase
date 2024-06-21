@@ -1,6 +1,6 @@
 # Utripia-showcase
 
-This is a page to introduce Utripia.ai, an AI-powered travel recommendation website.
+This is a page to introduce Utripia, an AI-powered travel recommendation website.
 
 🌍✈️🧳🗺️🚗🏨🏖️📍
 

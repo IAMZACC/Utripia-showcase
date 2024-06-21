@@ -2,7 +2,7 @@
 
 This is a page to introduce Utripia.ai, an AI-powered travel recommendation website.
 
-#🌍✈️🧳🗺️🚗🏨🏖️📍
+img src="imgs/globe.png" alt="Globe" width="24" height="24"/> <img src="imgs/plane.png" alt="Plane" width="24" height="24"/> <img src="imgs/luggage.png" alt="Luggage" width="24" height="24"/> <img src="imgs/map.png" alt="Map" width="24" height="24"/> <img src="imgs/car.png" alt="Car" width="24" height="24"/> <img src="imgs/hotel.png" alt="Hotel" width="24" height="24"/> <img src="imgs/beach.png" alt="Beach" width="24" height="24"/> <img src="imgs/pin.png" alt="Pin" width="24" height="24"/>
 
 # https://www.u-tripia.com/
 ## Project Overview

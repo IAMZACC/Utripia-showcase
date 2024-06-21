@@ -24,12 +24,13 @@ Utripia.ai is an AI-powered travel recommendation website designed to help users
 3. **Specify Preferences:** Optionally, specify particular types of attractions or the kind of experience you are looking for.
 
 ### Real-time Communication
+**Ask for Recommendations:** Allows real-time communication with users, providing relevant information about the attractions or cities they are interested in.
 ![Chat](imgs/chat.png)
 *Screenshot of the real-time communication feature1.*
 
-**Ask for Recommendations:** Allows real-time communication with users, providing relevant information about the attractions or cities they are interested in.
 
+**Update Locations:** Parse users' intentions and update and display locations based on their preferences.
 ![Chat](imgs/chat2.png)
 *Screenshot of the real-time communication feature2.*
 
-**Update Locations:** Parse users' intentions and update and display locations based on their preferences.
+
